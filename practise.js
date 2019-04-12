@@ -1,4 +1,3 @@
-
 count occurances in array - https://codesandbox.io/s/oo0rnrk6x9
 deep flatten array - https://codesandbox.io/s/q9wnqoxy9w
 difference between two arrays - https://codesandbox.io/s/4w957mopj4
@@ -7,3 +6,6 @@ Replaces the names of multiple object keys with the values provided.- https://co
 array chunking - https://codesandbox.io/s/zl0z4k6r7x
 capitalise first character in a word - https://codesandbox.io/s/xvv1rylm2o
 two sum using objects and diffrences - https://codesandbox.io/s/km32y0496v
+find target in an array using Binary Search -    https://codesandbox.io/s/o9ko3nyx45
+implement queue using two stacks - https://codesandbox.io/s/nnop94yjzm
+weave a new queue based on two queues - https://codesandbox.io/s/7ykn895wx0
