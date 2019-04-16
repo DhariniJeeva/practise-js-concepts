@@ -9,3 +9,6 @@ two sum using objects and diffrences - https://codesandbox.io/s/km32y0496v
 find target in an array using Binary Search -    https://codesandbox.io/s/o9ko3nyx45
 implement queue using two stacks - https://codesandbox.io/s/nnop94yjzm
 weave a new queue based on two queues - https://codesandbox.io/s/7ykn895wx0
+similarity and cartesian product arrays - https://codesandbox.io/s/9lzyo54874
+manipulating obj using reduce - https://codesandbox.io/s/pwlpy3l3x7
+invert key and value in obj - https://codesandbox.io/s/pwlpy3l3x7
